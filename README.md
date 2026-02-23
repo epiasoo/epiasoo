@@ -8,7 +8,7 @@ I build data-driven solutions using machine learning and statistical modelling f
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 **Languages**  
 Python · R · SQL · PHP  
 
@@ -18,9 +18,9 @@ Matplotlib · ggplot2 · Git · Jupyter · R Markdown
 
 ---
 
-### 🎯 Focus
+### Focus
 Machine Learning · Computer Vision · Data Analytics · AI Systems  
 
 ---
 
-📌 Currently seeking graduate or entry-level roles in Data Science / Machine Learning / AI.
+Currently seeking graduate or entry-level roles in Data Science / Machine Learning / AI.
