@@ -1,19 +1,26 @@
-## Hey there ✌️
+## Hey there ✌️  
+I'm **Ei Phyu Sin Oo**
 
-<!--
-**epiasoo/epiasoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+MSc Applied Data Science student at the **University of Essex**  
+BSc (Hons) Computer Networks — **Liverpool John Moores University**
 
-I'm a MSc Applied Data Science student at the University of Essex with a background in Computer Networks (BSc Hons, Liverpool John Moores University). 
+I build data-driven solutions using machine learning and statistical modelling from data preprocessing and exploratory analysis to model development and evaluation.
 
-I build data-driven solutions using machine learning, deep learning, and statistical analysis. Experienced in developing end-to-end projects from data preprocessing and exploratory analysis to model training, evaluation, and visualization.
+---
 
-### Tools & Tech
+### 🛠 Tech Stack
+**Languages**  
 Python · R · SQL · PHP  
-TensorFlow · Scikit-learn · Pandas · NumPy  
+
+**Libraries & Tools**  
+Scikit-learn · TensorFlow · Pandas · NumPy  
 Matplotlib · ggplot2 · Git · Jupyter · R Markdown  
 
-### Interests
-Machine Learning · Computer Vision · Data Analytics · Artificial Intelligence  
+---
 
-Actively seeking graduate or entry-level roles in Data Science, Machine Learning, or AI.
+### 🎯 Focus
+Machine Learning · Computer Vision · Data Analytics · AI Systems  
+
+---
+
+📌 Currently seeking graduate or entry-level roles in Data Science / Machine Learning / AI.
