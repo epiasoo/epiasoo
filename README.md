@@ -2,7 +2,7 @@
 I'm **Ei Phyu Sin Oo**
 
 MSc Applied Data Science student at the **University of Essex**  
-BSc (Hons) Computer Networks — **Liverpool John Moores University**
+BSc (Hons) Computer Networks - **Liverpool John Moores University**
 
 I build data-driven solutions using machine learning and statistical modelling from data preprocessing and exploratory analysis to model development and evaluation.
 
